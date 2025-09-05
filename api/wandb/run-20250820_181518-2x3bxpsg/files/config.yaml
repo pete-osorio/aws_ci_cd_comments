@@ -1,0 +1,51 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            zwecsfgttxyhxn3wuut8jmk8s3mtzsyd:
+                args:
+                    - test_api.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "1022870155264"
+                        used: "758476324864"
+                email: pete@twinchutes.io
+                executable: C:\Users\Pete\AppData\Local\Programs\Python\Python311\python.exe
+                git:
+                    commit: 2fa7e8b8f90c341326e015c8963ea0c189a07f6b
+                    remote: https://github.com/uelski/4705_final.git
+                gpu: NVIDIA GeForce RTX 3070 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 5120
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 3070 Laptop GPU
+                      uuid: GPU-df2e7264-49eb-9c4a-5c89-b5fd06aaa63b
+                host: LAPTOP-VGLQBRBG
+                memory:
+                    total: "17024741376"
+                os: Windows-10-10.0.26100-SP0
+                program: -m __main__
+                python: CPython 3.11.1
+                root: C:\Users\Pete\comp_4705\4705_final\api
+                startedAt: "2025-08-21T00:15:18.956714Z"
+                writerId: zwecsfgttxyhxn3wuut8jmk8s3mtzsyd
+        m: []
+        python_version: 3.11.1
+        t:
+            "1":
+                - 53
+            "2":
+                - 53
+            "3":
+                - 2
+            "4": 3.11.1
+            "5": 0.21.1
+            "8":
+                - 3
+            "12": 0.21.1
+            "13": windows-amd64

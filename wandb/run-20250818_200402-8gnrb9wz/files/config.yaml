@@ -1,0 +1,56 @@
+_wandb:
+    value:
+        cli_version: 0.21.1
+        e:
+            nlfin42lcjhq4yqpp2toohdyfri7pzzd:
+                codePath: models\model_training.py
+                codePathLocal: models\model_training.py
+                cpu_count: 8
+                cpu_count_logical: 16
+                cudaVersion: "12.8"
+                disk:
+                    /:
+                        total: "1022870155264"
+                        used: "757389463552"
+                email: pete@twinchutes.io
+                executable: c:\Users\Pete\AppData\Local\Programs\Python\Python311\python.exe
+                git:
+                    commit: 338a8060e3bda8b5e52f848b9e8514f22253a698
+                    remote: https://github.com/uelski/4705_final.git
+                gpu: NVIDIA GeForce RTX 3070 Laptop GPU
+                gpu_count: 1
+                gpu_nvidia:
+                    - architecture: Ampere
+                      cudaCores: 5120
+                      memoryTotal: "8589934592"
+                      name: NVIDIA GeForce RTX 3070 Laptop GPU
+                      uuid: GPU-df2e7264-49eb-9c4a-5c89-b5fd06aaa63b
+                host: LAPTOP-VGLQBRBG
+                memory:
+                    total: "17024741376"
+                os: Windows-10-10.0.26100-SP0
+                program: C:\Users\Pete\comp_4705\4705_final\models\model_training.py
+                python: CPython 3.11.1
+                root: C:\Users\Pete\comp_4705\4705_final
+                startedAt: "2025-08-19T02:04:02.638197Z"
+                writerId: nlfin42lcjhq4yqpp2toohdyfri7pzzd
+        m: []
+        python_version: 3.11.1
+        t:
+            "1":
+                - 5
+                - 53
+            "2":
+                - 5
+                - 53
+            "3":
+                - 2
+                - 16
+            "4": 3.11.1
+            "5": 0.21.1
+            "8":
+                - 3
+            "12": 0.21.1
+            "13": windows-amd64
+dataset:
+    value: toxic_comments
